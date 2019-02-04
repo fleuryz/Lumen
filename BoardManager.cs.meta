@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f6ecb36d739f47d8bf19310096eb0e5
+timeCreated: 1519330298
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grid: {fileID: 1028649856740736, guid: eecdc8fa0ebad4e3b82a161a0396c2bf, type: 2}
+  - kevin: {instanceID: 0}
+  - kevinScript: {fileID: 114377973204568478, guid: 70c97c366e1f94904953fed271a96879,
+      type: 2}
+  - matando_andar: {fileID: 8300000, guid: 23d6b13b86a0c4253808543e79c11d16, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

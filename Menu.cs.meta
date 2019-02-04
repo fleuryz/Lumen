@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: cc11c3e270acf48929d6d9b7edb8ff40
+timeCreated: 1525090781
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - selecionado: {fileID: 8300000, guid: d57a2248db66f4691a77a810e3104e7e, type: 3}
+  - mudou_opcao: {fileID: 8300000, guid: 66f42ac0bd4e24367abcd55718145e71, type: 3}
+  - b_Exit: {instanceID: 0}
+  - b_Settings: {instanceID: 0}
+  - i_Logo: {instanceID: 0}
+  - b_Jogar: {instanceID: 0}
+  - b_Fase1: {instanceID: 0}
+  - b_Fase2: {instanceID: 0}
+  - b_Fase3: {instanceID: 0}
+  - b_Fase4: {instanceID: 0}
+  - b_Editor: {instanceID: 0}
+  - b_Creditos: {instanceID: 0}
+  - b_Settings2: {instanceID: 0}
+  - b_Continuar: {instanceID: 0}
+  - b_Sair: {instanceID: 0}
+  - fundo: {instanceID: 0}
+  - kevin: {instanceID: 0}
+  - creditos: {instanceID: 0}
+  - i_logo2: {instanceID: 0}
+  - s_Musica: {instanceID: 0}
+  - s_Efeitos: {instanceID: 0}
+  - t_JogTest: {instanceID: 0}
+  - b_Exit2: {instanceID: 0}
+  - textoPontos: {instanceID: 0}
+  - musicaMenu: {instanceID: 0}
+  - musicaFase1: {instanceID: 0}
+  - musicaFase2: {instanceID: 0}
+  - fundo2: {instanceID: 0}
+  - kevin2: {instanceID: 0}
+  - MapaHUDHolder: {instanceID: 0}
+  - I_BlocoHUD: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24b6ca3f3ee5d4396a5f4cab4c86e7ef
+timeCreated: 1531239221
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - desativado: {instanceID: 0}
+  - movendo: {fileID: 8300000, guid: 29c19dcc635a643bab47fe2d70dd7e8e, type: 3}
+  - blocoFim: {fileID: 21300000, guid: 6043c113df742413f8abf9e676708f8d, type: 3}
+  - fim_fase: {fileID: 8300000, guid: 5181cf7d530544c80880946c1c480ba9, type: 3}
+  - som_bloco: {fileID: 8300000, guid: cbcaf2866a3234df28d98245b1b6ebed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

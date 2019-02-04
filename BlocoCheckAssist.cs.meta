@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 324afca7e80624d97a128f6c9e2e920d
+timeCreated: 1532449988
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - desativado: {instanceID: 0}
+  - movendo: {fileID: 8300000, guid: 29c19dcc635a643bab47fe2d70dd7e8e, type: 3}
+  - blocoCheckAssist: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

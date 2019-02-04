@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f51a36f8779da4c93962c7db688a00ba
+timeCreated: 1533672952
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - b_Settings: {instanceID: 0}
+  - b_Resume: {instanceID: 0}
+  - b_Return: {instanceID: 0}
+  - b_Padrao: {instanceID: 0}
+  - b_Desativado: {instanceID: 0}
+  - b_Absorve: {instanceID: 0}
+  - b_Checkpoint: {instanceID: 0}
+  - b_Atraso: {instanceID: 0}
+  - b_Fim: {instanceID: 0}
+  - b_Cobra: {instanceID: 0}
+  - b_Info: {instanceID: 0}
+  - b_Powerup: {instanceID: 0}
+  - b_Kevin: {instanceID: 0}
+  - musicaEditor: {fileID: 8300000, guid: 3fec37f207f4f498db9a91030898d862, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

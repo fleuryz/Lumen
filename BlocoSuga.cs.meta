@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa7f08cc13b924ea3b392e7c67402a4e
+timeCreated: 1532444267
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - desativado: {instanceID: 0}
+  - movendo: {fileID: 8300000, guid: 29c19dcc635a643bab47fe2d70dd7e8e, type: 3}
+  - blocoSuga: {instanceID: 0}
+  - matando: {fileID: 8300000, guid: 21d8e38356b044c7a8dfc382efa814f1, type: 3}
+  - som_constante: {fileID: 8300000, guid: 78133d0a5baa748db9b4841f4483b9ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

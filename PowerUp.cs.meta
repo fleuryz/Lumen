@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 903536519e113432c8a49500d04423fe
+timeCreated: 1532546117
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - desativado: {instanceID: 0}
+  - movendo: {instanceID: 0}
+  - powerUp: {instanceID: 0}
+  - pegou: {fileID: 8300000, guid: 169a33d189e9f491d8edffa311d7cb6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
